@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @IlkaJean
 - 👀 I’m interested in backend/full stack engineering
-- 🌱 I’m currently learning Node.js
+- 🕕 I have experience with Java, PHP, MySQL, HTML/CSS, Android Development
+- 🌱 I’m currently learning Node.js 
 
 
 <!---
