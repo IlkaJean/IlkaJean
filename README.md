@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IlkaJean
-- 👀 I’m interested in backend/full stack engineering
-- 🕕 I have experience with Java, PHP, MySQL, HTML/CSS, JavaScript, Android Development
+- 👀 Some things I find interesting backend/full stack engineering, algorithms, database systems, natural language processing
+- 🕕 I have experience with Java, Redis, Spring Boot, Junit Testing, PHP, MySQL, HTML/CSS, JavaScript, Android Development
 
 
 <!---
