@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @IlkaJean
-- 👀 Some things I find interesting backend/full stack engineering, algorithms, database systems, natural language processing
-- 🕕 I have experience with Java, Redis, Spring Boot, Junit Testing, PHP, MySQL, HTML/CSS, JavaScript, Android Development
+- 👀 Some things I find interesting: backend/full stack engineering, algorithms, database systems, natural language processing
+- 🕕 I have working experience with Java, Redis, Spring Boot, Git/Github, Jira, Maven
+- 👩🏾‍💻 I am currently building with React, TypeScript, HTML/CSS, PostgreSQL in my spare time
 
 
 <!---
